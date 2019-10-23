@@ -7,6 +7,20 @@ Application for Google Play
 - Code
 - Database ???
 
-###Contents### 
+###Contents###
+1.0.0
+- calculator
+  - addition
+  - subtraction
+  - multiplication
+  - division
+  - square root
+  -	log
+  - pow
+  - cos, sin, tan, cot
+  
+   
+1.0.1
 - Resistance calculation
 - Hex, Dec, Binary conversion
+- integral, derivative
