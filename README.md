@@ -8,6 +8,7 @@ Application for Google Play
 - Database ???
 
 ###Contents###
+
 1.0.0
 - calculator
   - addition
