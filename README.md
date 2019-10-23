@@ -18,7 +18,7 @@ Application for Google Play
   - square root
   -	log
   - pow
-  - cos, sin, tan, cot
+  - cos, sin, tan, cot and reverse all (arc...)
   
    
 1.0.1
@@ -29,3 +29,6 @@ Application for Google Play
 1.0.2
 - Matrix
 - Complex
+
+1.0.3
+- Theme (Dark, white, green, blue etc.)
