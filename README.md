@@ -25,3 +25,7 @@ Application for Google Play
 - Resistance calculation
 - Hex, Dec, Binary conversion
 - integral, derivative
+
+1.0.2
+- Matrix
+- Complex
