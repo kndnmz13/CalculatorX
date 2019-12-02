@@ -2,7 +2,7 @@
 Application for Google Play - > Link -> https://play.google.com/store/apps/details?id=com.kaandonmez.calculatorx
 
 ###to do list###
- ##Logo Design
+- Logo Design
 - Andorid Studio Design
 - Code
 - Database ???
