@@ -4,8 +4,8 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
 *The Code of the first version was released for everyone to benefit.* 
 
 ## to do list
--[x] Logo Design 
-- Andorid Studio Design - []
+- Logo Design - [x]
+- Andorid Studio Design - [ ]
 - Code [x]
 - Database ???
 
