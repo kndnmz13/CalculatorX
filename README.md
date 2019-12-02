@@ -5,7 +5,7 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
 
 ## to do list
 - Logo Design - [x]
-- Andorid Studio Design - [x]
+- Andorid Studio Design - []
 - Code [x]
 - Database ???
 
