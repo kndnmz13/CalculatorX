@@ -4,23 +4,23 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
 *The Code of the first version was released for everyone to benefit.* 
 
 ## to do list
-- Logo Design 
-- Andorid Studio Design 
-- Code 
+- Logo Design [x]
+- Andorid Studio Design [x]
+- Code [x]
 - Database ???
 
 ### Contents
 
 1.0
 - calculator
-  - addition 
-  - subtraction
-  - multiplication 
-  - division 
-  - square root 
-  -	log 
-  - pow 
-  - cos, sin, tan, cot and reverse all (arc...) 
+  - addition [x]
+  - subtraction [x]
+  - multiplication [x]
+  - division [x]
+  - square root [x]
+  -	log [x]
+  - pow [x]
+  - cos, sin, tan, cot and reverse all (arc...) [x]
   
  #Planned#  
 1.1
