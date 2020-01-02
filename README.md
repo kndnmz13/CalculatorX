@@ -1,10 +1,9 @@
 # CalculatorX
 Application for Google Play - > Link -> https://play.google.com/store/apps/details?id=com.kaandonmez.calculatorx
 
-*The Code of the first version was released for everyone to benefit.* 
 
 ## to do list
-- Logo Design 
+- Logo Design [x] 
 - Andorid Studio Design 
 - Code
 - Database ???
