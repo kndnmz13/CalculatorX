@@ -19,9 +19,12 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
   - square root (!)
   -	log (!)
   - pow (!)
+ 
  1.1
  - cos, sin, tan, cot and reverse all (arc...) (x)  
+
 #Planned#  
+
 1.2
 - *** PRO VERSION***
 - Resistance calculation
@@ -33,5 +36,5 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
 - Matrix
 - Complex
 
-1.3
+1.4
 - Theme (Dark, white, green, blue etc.)
