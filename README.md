@@ -3,10 +3,10 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
 
 
 ## to do list
-- Logo Design  
-- Andorid Studio Design 
-- Code
-- Database ???
+- Logo Design (x)  
+- Andorid Studio Design (x) 
+- Code (x)
+- Database (?)
 
 ### Contents
 
@@ -20,8 +20,8 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
   -	log 
   - pow 
  1.1
- - - cos, sin, tan, cot and reverse all (arc...)  
- #Planned#  
+ - cos, sin, tan, cot and reverse all (arc...)  
+#Planned#  
 1.2
 - Resistance calculation
 - Hex, Dec, Binary conversion
