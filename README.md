@@ -19,15 +19,16 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
   - square root 
   -	log 
   - pow 
-  - cos, sin, tan, cot and reverse all (arc...) 
-  
+ 1.1
+ - - cos, sin, tan, cot and reverse all (arc...)  
  #Planned#  
-1.1
+1.2
 - Resistance calculation
 - Hex, Dec, Binary conversion
 - integral, derivative
+- OpenCV
 
-1.2
+1.3
 - Matrix
 - Complex
 
