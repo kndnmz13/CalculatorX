@@ -12,15 +12,15 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
 
 1.0
 - calculator
-  - addition 
-  - subtraction 
-  - multiplication 
-  - division 
-  - square root 
-  -	log 
-  - pow 
+  - addition (x)
+  - subtraction (x) 
+  - multiplication (x)
+  - division (x)
+  - square root (!)
+  -	log (!)
+  - pow (!)
  1.1
- - cos, sin, tan, cot and reverse all (arc...)  
+ - cos, sin, tan, cot and reverse all (arc...) (x)  
 #Planned#  
 1.2
 - Resistance calculation
