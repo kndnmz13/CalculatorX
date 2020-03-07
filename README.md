@@ -23,6 +23,7 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
  - cos, sin, tan, cot and reverse all (arc...) (x)  
 #Planned#  
 1.2
+- *** PRO VERSION***
 - Resistance calculation
 - Hex, Dec, Binary conversion
 - integral, derivative
