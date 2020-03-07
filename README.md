@@ -22,6 +22,7 @@ Application for Google Play - > Link -> https://play.google.com/store/apps/detai
  
 1.1
 - cos, sin, tan, cot and reverse all (arc...) (x)  
+- Advertisement (x)
 
 #Planned#  
 
